@@ -1,0 +1,19 @@
+{
+  "name": "sst-cloudflare-hono-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hono": "^4.3.1",
+    "sst": "ion"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "4.20240405.0"
+  }
+}
